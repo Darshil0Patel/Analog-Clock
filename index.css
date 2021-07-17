@@ -42,11 +42,12 @@ body{
 }
 #second
 {
+    background:rgb(254, 102, 30);
     z-index: 1;
     width: 1.2%;
     height: 34%;
     top: 15.85%;
-    left: 48.77%;
+    left: 48.90%;
     opacity: 0.75;
     /* display: none; */
 }
